@@ -16,7 +16,7 @@ https://www.paypal.com/donate/?hosted_button_id=9U85FFV2R2CKY
 
 ## Manufacturing guidelines
 
-If using FDM printer recommend use PAHT-CF or some other Nylon for all parts except the QLS fork, which should be made out of TPU95.
+If using FDM printer recommend use PAHT-CF or some other Nylon for all parts.
 Make sure layer lines are positioned correctly.
 
 If you want to make these parts out of metal the QLS fork needs material removed since metal is not as flexible.
